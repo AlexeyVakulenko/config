@@ -12091,6 +12091,7 @@
     		<type>setting</type>
     		<enabled>true</enabled>
     		<ServicePushDetailEnabled>true</ServicePushDetailEnabled>
+	    	<ServicePushChatEnabled>true</ServicePushChatEnabled>
 	</param>
     <param name="CreditCardDebtMid2019" description="Экран задолженности кредитной карты версии середины 2019 года"> 
       <type>service</type>
